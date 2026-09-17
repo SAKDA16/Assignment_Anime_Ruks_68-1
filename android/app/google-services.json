@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961926660266",
+    "project_id": "flutter-68-1-016-sakda",
+    "storage_bucket": "flutter-68-1-016-sakda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961926660266:android:c67f32f479e10c942e50d3",
+        "android_client_info": {
+          "package_name": "com.example.anime_ruka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASF284TgomWIH-GzCUT6SXlO_4qoX96j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961926660266:android:670ff9323246ee802e50d3",
+        "android_client_info": {
+          "package_name": "com.example.anime_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASF284TgomWIH-GzCUT6SXlO_4qoX96j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
